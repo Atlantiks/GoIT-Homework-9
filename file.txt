@@ -1,0 +1,7 @@
+name age occupation
+
+alice 21 butcher
+
+ryan 30 coder
+
+sergii 33 seaman
